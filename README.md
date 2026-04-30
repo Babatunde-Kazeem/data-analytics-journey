@@ -1,10 +1,10 @@
-# Data Analytics Project: Asking the Right Questions
+# Employee Engagement and Organizational Performance Analysis
 
-## Project Title
-Employee Engagement and Organizational Performance Analysis
+## About Me
+I am Babatunde Kazeem, a graduate of Business Administration with a growing interest in Data Analytics and Business Analysis. I am developing skills in Excel, SQL, and Power BI to analyze data and support business decision-making.
 
 ## Business Understanding
-The goal of this project is to understand how employee engagement affects organizational performance. This analysis helps organizations improve productivity, innovation, and employee satisfaction.
+The goal of this project is to analyze how employee engagement impacts organizational performance. Understanding this relationship can help organizations improve productivity, reduce employee turnover, and enhance innovation.
 
 ## Data Understanding
 The data required for this project includes:
@@ -13,21 +13,28 @@ The data required for this project includes:
 - Performance metrics
 - Employee turnover rate
 
-Data sources may include platforms like Kaggle and other open data sources.
+Data will be sourced from open platforms such as Kaggle and other publicly available datasets.
 
 ## Approach
-The approach involves:
-- Defining the business problem
-- Identifying relevant data
-- Using descriptive analysis to understand trends and relationships
+The project follows these steps:
+- Define the business problem
+- Identify and collect relevant data
+- Clean and prepare the data
+- Perform descriptive analysis
+- Generate insights and recommendations
 
-## Technologies
-- Microsoft Excel (planned)
-- SQL (planned)
-- Power BI (planned)
+## Tools and Technologies
+- Microsoft Excel (for data cleaning and analysis)
+- SQL (for querying datasets)
+- Power BI (for data visualization)
 
-## Status
-Project is currently in progress.
+## Project Status
+This project is currently in progress. Data collection and analysis will be completed in subsequent stages.
+
+## Future Improvements
+- Incorporate real datasets
+- Build dashboards using Power BI
+- Perform deeper analysis (trend and correlation analysis)
 
 ## Credits
-This project is part of my learning journey in Data Analytics.
+This project is part of my Data Analytics learning journey.
